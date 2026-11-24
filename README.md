@@ -1,5 +1,7 @@
 # Talks
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/talks?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/talks/stargazers)
+
 A collection of slide decks from my conference talks and presentations.
 
 ## Presentations
